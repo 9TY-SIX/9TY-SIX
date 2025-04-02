@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Vulnerability Scanning & Nework Security Assessment</b>
-  - [Praciting DS & Algos in Python](https://github.com/9TY-SIX/Algorithms-Practice)
+  - [Vulnerability Assessment](https://github.com/9TY-SIX/Vulnerability-Assessment-Project)
 
    <h2>👨‍💻 Certifications:</h2>
 - [Google IT Support Certificate](https://coursera.org/verify/professional-cert/CC2VDZ3WU2NB)
