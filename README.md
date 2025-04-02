@@ -1,7 +1,27 @@
-## Hi there 👋
+<h1>Hi, I'm Nathaniel! 
+
+<h2>👨‍💻 Cyber Security Projects:</h2>
+
+- <b>Vulnerability Scanning & Nework Security Assessment</b>
+  - [Praciting DS & Algos in Python](https://github.com/9TY-SIX/Algorithms-Practice)
+
+   <h2>👨‍💻 Certifications:</h2>
+- [Google IT Support Certificate](https://coursera.org/verify/professional-cert/CC2VDZ3WU2NB)
+
+- [Google AI Essentials](https://coursera.org/verify/047A41L31CLO)
+
+- ISC2 Certified in Cybersecurity
+
+- CompTIA Security+(SY0-701) Cert Prep
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://linkedin.com/in/nathaniel-amonoo-57920a286
 
 <!--
-**9TY-SIX/9TY-SIX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
