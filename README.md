@@ -4,6 +4,8 @@
 
 - <b>Vulnerability Scanning & Nework Security Assessment</b>
   - [Vulnerability Assessment](https://github.com/9TY-SIX/Vulnerability-Assessment-Project)
+ 
+- <b>Threat Analysis</b>
   - [Threat Analysis & Response](https://github.com/9TY-SIX/SOC338-Lumar-Threat-Response)
 
    <h2>👨‍💻 Certifications:</h2>
