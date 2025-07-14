@@ -2,14 +2,19 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Vulnerability Scanning & Nework Security Assessment</b>
-  - [Vulnerability Assessment](https://github.com/9TY-SIX/Vulnerability-Assessment-Project)
+- <b>Security Information & Event  Monitoring [SIEM] Lab</b>
+  - [Wazuh SIEM Lab](https://github.com/9TY-SIX/Wazuh-SIEM-Lab)
+ 
+- <b>Phishing Campaign</b>
+  - [Phishing Campaign](https://github.com/9TY-SIX/GoPhish-VPS-Phishing-Campaignn)
  
 - <b>Threat Analysis</b>
   - [Threat Analysis & Response](https://github.com/9TY-SIX/SOC338-Lumar-Threat-Response)
  
-- <b>Phishing Campaign</b>
-  - [Phishing Campaign](https://github.com/9TY-SIX/GoPhish-VPS-Phishing-Campaignn)
+ 
+- <b>Vulnerability Scanning & Nework Security Assessment</b>
+  - [Vulnerability Assessment](https://github.com/9TY-SIX/Vulnerability-Assessment-Project)
+ 
 
    <h2>👨‍💻 Certifications:</h2>
 - [Google IT Support Certificate](https://coursera.org/verify/professional-cert/CC2VDZ3WU2NB)
