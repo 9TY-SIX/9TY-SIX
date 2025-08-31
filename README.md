@@ -17,13 +17,15 @@
  
 
    <h2>👨‍💻 Certifications:</h2>
+- [CompTIA Security+ SY0-701](https://www.credly.com/badges/1314dc28-f6de-44d3-9f48-d8a4827bc648/linked_in_profile)
+
 - [Google IT Support Certificate](https://coursera.org/verify/professional-cert/CC2VDZ3WU2NB)
 
 - [Google AI Essentials](https://coursera.org/verify/047A41L31CLO)
 
 - ISC2 Certified in Cybersecurity
 
-- CompTIA Security+(SY0-701) Cert Prep
+
 
 <h2> 🤳 Connect with me:</h2>
 
